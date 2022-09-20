@@ -1,0 +1,44 @@
+body {
+  color : purple;
+  font-size: 35px;
+  background-color: rgba(193, 50, 50, 0.2);
+}
+#dMode {
+  text-decoration-color: white;
+
+}
+#dMode:hover {
+  size: 150%;
+  transition: 1.2s;
+}
+h1 {
+  text-shadow: purple 50px 0 50px;
+  font-size: 60px;
+  background-color: rgba(193, 50, 50, 0.1);
+}
+h4 {
+  text-decoration: underline;
+  text-shadow: rgba(191, 116, 63, 0.32) 20px 10px 20px;
+}
+hr {
+  margin-top:-30px;
+  margin-bottom: 100px;
+
+}
+.stp1, .step2 {
+  text-decoration: none;
+  font-size: 40px;
+  color: purple;
+
+}
+.step1:hover, .step2:hover {
+  text-shadow: pink 50px 0 50px;
+}
+.step2 {
+}
+
+.step3 {
+  padding-left: 50px;
+  font-size: 45px;
+  background-color: rgba(193, 50, 50, 0.05);
+}
